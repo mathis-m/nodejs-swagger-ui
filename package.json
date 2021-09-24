@@ -1,0 +1,12 @@
+{
+  "name": "plain-nodejs-swagger",
+  "version": "1.0.0",
+  "description": "Sample node http server with swagger-ui",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-specifier-resolution=node index.js"
+  },
+  "author": "mathis-m",
+  "license": "Unlicense"
+}
